@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>footer</title>
+ </head> 
+ <body>
+  <header>
+    <h1>Професионалния  сайт на  Динка Малчева<h1>
+  </header>
+  <article>
+    <h2>Добре дошли!</h2>
+    <p>Радвам се ,че пресъствате в моя сайт.</p>
+  </article>
+  <footer>
+    Copyright Динка Малчева
+  </footer>
+ </body> 
+</html>
